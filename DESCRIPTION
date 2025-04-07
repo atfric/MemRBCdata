@@ -1,0 +1,19 @@
+Package: MemRBCdata
+Type: Package
+Title: Data package with Membrane objects for MemRBC
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Stephan", "Frickenhaus",
+      email = "Stephan.Frickenhaus@awi.de",
+      role = c("aut", "cre")
+    )
+  )
+Description: This extends the MemRBC package by some data
+    Have this package for the more memory consuming data.
+License: GPL.3
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5)
+RoxygenNote: 7.3.2
